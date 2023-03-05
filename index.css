@@ -133,3 +133,53 @@
     margin-top: 40px;
     font-family: Helvetica;
 }
+
+
+/* --------------------------------For Mobile Responsive Part----------------------------- */
+
+@media only screen and (max-width: 600px) {
+    /* ------------------First Section mobile responsive------------------- */
+    .sectionfst{
+        flex-direction: column;
+        margin-left: 0px;
+        margin-bottom: 0px; 
+    }
+
+    .textpad{
+
+        padding-top: 0px;
+    }
+    .heathimg{
+        margin-left: 40px;
+        margin-bottom: 20px;
+    }
+
+     .btn{
+        position: relative;
+        margin-left: 200px;
+        margin-bottom: 40px;
+     }
+      .btn:hover{
+        background-image: linear-gradient(rgb(144, 230, 5), rgb(255, 0, 0));
+      }
+     .paragrp{
+        text-align: center;
+     }
+
+
+     /* <!-- --------------This is for about section---------------- --> */
+
+     .bgimagess{
+        
+        width: 30%;
+        padding-top: 250px;
+        height: 20%;
+        background: no-repeat;
+        
+        
+    }
+
+
+}
+
+  
