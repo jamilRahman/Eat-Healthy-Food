@@ -10,7 +10,7 @@
     }
     
     .fontsize{
-        font-size: 25px;
+        font-size: 45px;
     }
     .textpad{
 
@@ -80,8 +80,20 @@
         gap: 40px;
     }
 
+    .blockimg{
 
-
+        width: 350px;
+        height: 400;
+       
+    }
+    
+    .shadow{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        padding: 10px;
+        width: 350px;
+        margin-left:40px;
+        border-radius: 20px;
+    }
 
     /* <!-- ----------------------Subscriber----------------------------- --> */
 
