@@ -2,6 +2,9 @@
 
 @media only screen and (max-width: 500px) {
     /* ------------------First Section mobile responsive------------------- */
+    .body{
+        width: 500px;
+    }
     .sectionfst{
         flex-direction: column;
         margin-left: 0px;
