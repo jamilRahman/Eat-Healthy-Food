@@ -2,34 +2,37 @@
 
 @media only screen and (max-width: 500px) {
     /* ------------------First Section mobile responsive------------------- */
-    .body{
-        width: 500px;
-    }
+    
     .sectionfst{
         flex-direction: column;
         margin-left: 0px;
         margin-bottom: 0px; 
     }
-
+    
+    .fontsize{
+        font-size: 25px;
+    }
     .textpad{
 
         padding-top: 0px;
     }
     .heathimg{
-        margin-left: 40px;
+        margin-left: 0px;
         margin-bottom: 20px;
+        width: 300px;
     }
 
      .btn{
         position: relative;
-        margin-left: 200px;
+        margin-left: 100px;
         margin-bottom: 40px;
      }
       .btn:hover{
         background-image: linear-gradient(rgb(144, 230, 5), rgb(255, 0, 0));
       }
-     .paragrp{
+     .paragrpp{
         text-align: center;
+        
      }
 
 
