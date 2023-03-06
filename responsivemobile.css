@@ -1,6 +1,6 @@
 /* --------------------------------For Mobile Responsive Part----------------------------- */
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 500px) {
     /* ------------------First Section mobile responsive------------------- */
     .sectionfst{
         flex-direction: column;
