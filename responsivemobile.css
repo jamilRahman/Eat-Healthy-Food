@@ -10,20 +10,20 @@
     }
     
     .fontsize{
-        font-size: 45px;
+        font-size: 40px;
     }
     .textpad{
 
         padding-top: 0px;
     }
     .heathimg{
-        margin-left: 40px;
+        margin-left: 7px;
         margin-bottom: 20px;
     }
 
      .btn{
         position: relative;
-        margin-left: 200px;
+        margin-left: 154px;
         margin-bottom: 40px;
      }
       .btn:hover{
@@ -35,6 +35,16 @@
 
 
      /* <!-- --------------This is for about section---------------- --> */
+
+     .bgimagess{
+        background-image: url("healthy/images/shapes/7.png");
+        width: 115%;
+        padding-top: 250px;
+        height: 30%;
+     } 
+
+    
+    
     .aboutme{
         flex-direction: column;
         gap: 0px;
@@ -45,7 +55,7 @@
    .imzsizes{
         width: 350px;
         height: 500px;
-        padding-left: 90px;
+        padding-left: 32px;
     }
     .para{
         padding-right: 0px;
@@ -58,7 +68,7 @@
         padding-right: 20px;
     }
     .btnme{
-        margin-left: 200px;
+        margin-left: 39%;
         margin-bottom: 20px;
     }
     /* <!-- -----------------------Head and Paragraph----------------------------------- --> */
@@ -66,8 +76,8 @@
     .head2{
 
         text-align: none;
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 0px;
+        padding-right: 0px;
     }
 
 
@@ -91,7 +101,7 @@
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
         padding: 10px;
         width: 350px;
-        margin-left:40px;
+        margin-left: 27px;
         border-radius: 20px;
     }
 
@@ -100,13 +110,13 @@
     .subs{
 
         flex-direction: column;
-        margin-left: 60px;
-        margin-right: 60px;
+        margin-left: 9%;
+        margin-right: -3%;
         gap: 0px;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
         margin-top: 50px;
         border-radius: 20px;
-        padding-left: 150px;
+        padding-left: 130px;
         
     }
     /* <!-- -------------------------Footer Section---------------------- --> */
